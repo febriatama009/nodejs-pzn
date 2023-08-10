@@ -1,0 +1,13 @@
+{
+  "name": "01---nodejs-dasar",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "01_hello-world.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
